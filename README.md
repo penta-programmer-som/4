@@ -1,4 +1,4 @@
-# 12주차 HW12_
+# 13주차 HW12_2, Project03(03)
 
 # 1920. 수 찾기 https://www.acmicpc.net/problem/1920
 # 1759. 암호 만들기 https://www.acmicpc.net/problem/1759
